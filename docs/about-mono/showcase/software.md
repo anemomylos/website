@@ -12,6 +12,7 @@ Applications
 Commercial Applications
 -----------------------
 
+-   [EasyJoin](https://easyjoin.net) Files, notifications and clipboard sharing app. Cross platform - Android, Windows, Linux, macOS.
 -   [DekiWiki](http://wiki.mindtouch.com) is an advanced WYSIWYG Wiki system powered by Mono.
 -   [SplendidCRM](http://www.splendidcrm.com) Cross platform, CRM system.
 -   [Plasma](http://pnunit.codicesoftware.com/opproducts.aspx) Source Code Management system from Codice Software.
